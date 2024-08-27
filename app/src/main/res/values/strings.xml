@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lesson 12.11</string>
+    <string name="hint_fullname">Enter your fullname</string>
+    <string name="hint_email">Your email</string>
+    <string name="text_user_information">User Information</string>
+    <string name="text_add">Add</string>
+    <string name="img_des">avatar of user</string>
+    <string name="text_add_success">Add new user to database success!</string>
+    <string name="text_add_failed">Add user to database failed!</string>
+    <string name="text_btn_des">Add new user</string>
+    <string name="text_btn_more_desc">More options</string>
+    <string name="menu_delete">Delete</string>
+    <string name="hint_name">Full name</string>
+    <string name="text_user_info">User Information</string>
+
+    <string name="text_btn_cancel">Cancel</string>
+    <string name="menu_edit">Edit</string>
+    <string name="text_confirm_delete">Do you want to delete this user?</string>
+    <string name="text_confirm">Confirm</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_btn_update">Update</string>
+    <string name="text_menu_item_detail">Detail</string>
+    <string name="text_label_name">Full Name:</string>
+    <string name="text_label_email">Email:</string>
+    <string name="btn_submit">Submit</string>
+    <string name="action_ok">OK</string>
+    <string name="text_confirm_update">Do you confirm to update?</string>
+    <string name="hint_display_name">Display name</string>
+    <string name="display_name">Display:</string>
+</resources>
